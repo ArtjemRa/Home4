@@ -1,0 +1,30 @@
+#wrapper{
+    border: 3px solid black;
+    width: 300px;
+    height: 600px;
+    position: relative;
+}
+#wrapper div{
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    border-radius: 50%;
+    position: absolute;
+    margin: 35px;
+    
+}
+.ball-1{
+    background-color: red;
+    left:30px;
+}
+.ball-2{
+    background-color: yellow;
+    left:30px;
+    top:175px;
+
+}
+.ball-3{
+    background-color: green;  
+    left: 35px;
+    bottom: 30px;
+}

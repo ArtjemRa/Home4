@@ -1,0 +1,20 @@
+#wrapper{
+    background-color: aquamarine;
+    width: 450px;
+    height: 300px;
+    position: relative;
+}
+#wrapper div{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box-1{
+    left: 30px;
+    top: 30px;
+}
+.box-2{   
+    right: 30px;
+    bottom: 30px;
+}
